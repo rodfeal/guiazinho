@@ -1,2 +1,7 @@
 # guiazinho
-Alteração Feature 1
+Alteração Feature 1.2
+
+Funçãozinha aqui() {
+  blibli
+}
+
